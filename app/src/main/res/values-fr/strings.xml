@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">Bonjour!</string>
+    <string name="ButtonText">Im un bouton</string>
+    <string name="RadioMessage">bouton radio</string>
+    <string name="CheckboxMessage">Checkbox</string>
+    <string name="StringMessage">qu'est-ce que ca fait?</string>
+</resources>
